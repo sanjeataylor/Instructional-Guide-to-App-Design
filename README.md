@@ -1,4 +1,4 @@
-# Understanding App Design in Practice
+# Understanding App Design 
 The structure, organization, and user experience of an application are all aspects of its design. It blends user experience (UX) components like flow, feedback, and usability with user interface (UI) components like buttons, icons, and layouts. Clear navigation menus, straightforward scan buttons, readable dashboards, and alerts that provide guidance without being overbearing are examples of how design ideals manifest in a real software like StockCheck. Every screen is made to facilitate a certain function, like checking reports, examining stock levels, or scanning inventories.
 
 # User Flow, Layout, and Interaction
